@@ -1,2 +1,1 @@
-insert into product(id, code) values(1, '1');
-insert into product(id, code) values(2, '2');
+INSERT INTO leaf_alloc (biz_tag, max_id, step, description, update_time) VALUES ('ORDER_ID', 302062498, 20000, 'order_id', '2022-06-21 08:57:58');
